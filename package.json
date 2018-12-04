@@ -1,0 +1,10 @@
+{
+  "name": "rythmus-scripts",
+  "version": "0.1.0",
+  "description": "rythmus misc scripts",
+  "author": "Arnaud Juracek",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {}
+}
