@@ -10,6 +10,7 @@
 - [`rythmus-viewer`](https://github.com/chevalvert/rythmus-viewer) : Rythmus `hnode` 3D previewer
 - [`rythmus-sensor`](https://github.com/chevalvert/rythmus-sensor) : Rythmus heart sensor firmware
 - `rythmus-scripts` : Rythmus misc scripts
+- [`rythmus-documentation`](https://github.com/chevalvert/rythmus-documentation) : Rythmus hardware, hookup & misc guides
 
 ## License
 [MIT.](https://tldrlegal.com/license/mit-license)
